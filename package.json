@@ -1,0 +1,19 @@
+{
+  "name": "library-manager",
+  "version": "1.0.0",
+  "description": "that manages the books",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "book",
+    "express"
+  ],
+  "author": "gustavo bist",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
